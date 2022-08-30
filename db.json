@@ -1,11 +1,11 @@
-[{
-      "label": "1º SEMESTRE",
-      "disciplinas": [
-        {
-          "name": "Fundamentos de Redes de Computadores",
-          "cod": "FRD",
-          "smile": "easy"
-        }
-      ]
-    }
+[
+      {
+            "disciplinas": [
+              {
+                  "name": "Fundamentos de Redes de Computadores",
+                  "cod": "FRD",
+                  "smile": "SORRINDO"
+              }
+            ]
+      }
 ]
